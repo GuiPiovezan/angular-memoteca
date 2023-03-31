@@ -2,8 +2,8 @@
   "pensamentos": [
     {
       "id": 1,
-      "conteudo": "Que bom que vc veio",
-      "autoria": "Gui",
+      "conteudo": "Que bom que você veio",
+      "autoria": "Aleatório",
       "modelo": "modelo1"
     },
     {
@@ -17,6 +17,12 @@
       "conteudo": "Sou um DEV muito bom",
       "autoria": "Gui",
       "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Testando função de editar",
+      "autoria": "Hello Word!",
+      "modelo": "modelo2",
+      "id": 4
     }
   ]
 }
